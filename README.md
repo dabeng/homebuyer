@@ -3,10 +3,10 @@
   <thead>
     <tr>
       <th>小区</th>
-      <th>售价(万)</th>
+      <th>售价</th>
       <th>位置</th>
       <th>楼层</th>
-      <th>面积(㎡)</th>
+      <th>面积</th>
       <th>户型</th>
       <th>年代</th>
       <th>属性</th>
